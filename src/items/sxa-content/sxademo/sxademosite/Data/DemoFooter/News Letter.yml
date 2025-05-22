@@ -1,0 +1,30 @@
+﻿---
+ID: "a39cca81-d037-4fbb-9090-c26863a33fb5"
+Parent: "49d5f052-118c-4115-bce9-503f67ecae34"
+Template: "fcdc1dfa-103d-4133-a88b-bf1abc7aee52"
+Path: /sitecore/content/sxademo/sxademosite/Data/DemoFooter/News Letter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14549246-25cc-4923-807a-0c5724a5961a"
+      Hint: LinkText
+      Value: News Letter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250506T180414Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f11698ec-4e95-45e2-9903-00e48aae83b7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "bee3e40e-e34f-4fd9-bd6a-78197da0e587"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CC066353-CD78-4A56-8B54-AB5A59DC50D3}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250506T180448Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "77922d04-71f7-4853-90bf-bfd9f10f1bdb"
+Parent: "a1d9dfe3-bf7f-450f-ae47-33f3db9471ec"
+Template: "a1d9dfe3-bf7f-450f-ae47-33f3db9471ec"
+Path: /sitecore/templates/Feature/SXADemosite/Demo General/Rendering Parameters/DemoProductDetail Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e5a05f3-25eb-4868-befd-6f2a7a5394a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T100022Z

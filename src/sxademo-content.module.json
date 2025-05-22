@@ -1,0 +1,20 @@
+{
+  "namespace": "HeadlessSxaWebsite-Content",
+  "references": ["HeadlessSxaWebsite"],
+  "items": {
+    "includes": [
+      {
+        "name": "sxa-content",
+        "path": "/sitecore/content/sxademo"
+      },
+      {
+        "name": "sxa-project-media",
+        "path": "/sitecore/media library/Project/sxademo"
+      },
+      {
+        "name": "sxa-feature-media",
+        "path": "/sitecore/media library/Feature/SXADemosite"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "namespace": "InitItems",
+  "items": {
+    "includes": [
+      {
+        "name": "content-root",
+        "path": "/sitecore/content",
+        "scope": "singleItem",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "api-key",
+        "path": "/sitecore/system/Settings/Services/API Keys/xmcloudpreview",
+        "scope": "singleItem"
+      },
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages",
+        "scope": "descendantsOnly",
+        "rules": [
+          {
+            "path": "/en",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

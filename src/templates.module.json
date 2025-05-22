@@ -1,0 +1,38 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Templates",
+  "items": {
+    "includes": [
+      {
+        "name": "feature-templates",
+        "path": "/sitecore/templates/Feature/SXADemosite",
+        "rules": [
+          {
+            "path": "/General",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "project-templates",
+        "path": "/sitecore/templates/Project/sxademo",
+        "rules": [
+          {
+            "path": "/sitecore/templates/Feature/SXADemosite/General",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "branch-feature-templates",
+        "path": "/sitecore/templates/Branches/Feature/SXADemosite",
+        "rules": [
+          {
+            "path": "/General",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

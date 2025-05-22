@@ -1,0 +1,34 @@
+﻿---
+ID: "cc066353-cd78-4a56-8b54-ab5a59dc50d3"
+Parent: "d7c6034a-a12b-4e85-95a3-db39b1b5c4f9"
+Template: "22ebb0f9-af9d-41f9-bad7-ced9c7749cfd"
+Path: /sitecore/content/sxademo/sxademosite/Home/Our World
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3BBBF9E8-3C81-4F0D-9C35-214B1EDEBF8C}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250505T180144Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Our World
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64738921-3b83-41f3-b41e-ae937fb97b4b"
+    - ID: "9b7fc37e-64ce-4c46-b092-84fee23d2a27"
+      Hint: Title
+      Value: Our World
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250505T180144Z

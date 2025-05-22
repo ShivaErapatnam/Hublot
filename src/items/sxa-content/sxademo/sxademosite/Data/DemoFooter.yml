@@ -1,0 +1,35 @@
+﻿---
+ID: "49d5f052-118c-4115-bce9-503f67ecae34"
+Parent: "8ee31b81-89fe-4cd2-a915-d0e286798803"
+Template: "2693d2e6-3db4-4080-b73f-3ed39eeb38c6"
+Path: /sitecore/content/sxademo/sxademosite/Data/DemoFooter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250506T180037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "79a047cc-2269-45ce-8534-beb50e9a571b"
+      Hint: Logo
+      Value: |
+        <image mediaid="{0D22D8FC-DF47-427B-B440-EE0C1BE8787D}" alt="logo" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a53dd2a8-1176-47f9-96c0-c22fe1b829e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250506T180401Z

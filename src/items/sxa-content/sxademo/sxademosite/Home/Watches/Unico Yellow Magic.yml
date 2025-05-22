@@ -1,0 +1,44 @@
+﻿---
+ID: "85526262-77be-498a-891d-923f20313ef0"
+Parent: "739d02a0-25a6-4cb4-8b0a-8ea4bd078da1"
+Template: "12979967-1ca8-4891-97f4-1904bdb8ffda"
+Path: /sitecore/content/sxademo/sxademosite/Home/Watches/Unico Yellow Magic
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B50DFCF8-0E25-4FD5-B3E0-FEE55F21F633}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c704e8f-f382-4d2d-b8b9-f031a311668a"
+      Hint: Price
+      Value: USD 29,600 
+    - ID: "1d2f4569-49ef-497f-bddc-af2b0f43eff9"
+      Hint: Model
+      Value: Big Bang
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250507T072742Z
+    - ID: "490acb88-6d22-4e2a-970f-0065c1f8a9cc"
+      Hint: Title
+      Value: Unico Yellow Magic
+    - ID: "4d37c281-a240-44bc-af69-c9faf52e1e30"
+      Hint: Image
+      Value: |
+        <image mediaid="{3A6FD361-4AA8-4205-AA11-631A706358BC}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Unico Yellow Magic
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6929ee89-4925-44ee-b379-269e9279c0dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T073114Z

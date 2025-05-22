@@ -1,0 +1,31 @@
+{
+  "namespace": "HeadlessSxaWebsite",
+  "references": ["InitItems"],
+  "items": {
+    "includes": [
+      {
+        "name": "layouts",
+        "path": "/sitecore/layout/Layouts/Feature/SXADemosite"
+      },
+      {
+        "name": "sxa-renderings",
+        "path": "/sitecore/layout/Renderings/Feature/SXADemosite",
+        "rule": [
+          {
+            "name": "general-renderings",
+            "path": "/General",
+            "score": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "sxa-placeholders",
+        "path": "/sitecore/layout/Placeholder Settings/Project/sxademo"
+      },
+      {
+        "name": "rendering-contents-resolvers",
+        "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Footer Rendering Contents Resolver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+﻿---
+ID: "2df8f015-90e5-486b-a210-a0df6d1dbe7b"
+Parent: "84cddf56-6454-4ce7-aba8-52a38febeb4f"
+Template: "85dc244d-be3d-4609-bc6c-2b6084a47990"
+Path: /sitecore/content/sxademo/sxademosite/Data/DemoHeader/Boutiques
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7bdaf4b7-b285-436e-922c-c01b00d21f38"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14549246-25cc-4923-807a-0c5724a5961a"
+      Hint: LinkText
+      Value: Boutiques
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250505T180121Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b245b3b5-2b71-49c4-85e9-300fcd6f1165"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "bee3e40e-e34f-4fd9-bd6a-78197da0e587"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{57BCDDF0-F238-4AFC-BDC7-E56E6D648691}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250505T180159Z

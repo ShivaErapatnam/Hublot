@@ -1,0 +1,36 @@
+﻿---
+ID: "9d0e6aa9-82cb-4b5d-8bff-49bb28a1a65a"
+Parent: "a7ea244d-bed0-4b70-b8c2-9e6f77e99b9f"
+Template: "a7ea244d-bed0-4b70-b8c2-9e6f77e99b9f"
+Path: /sitecore/templates/Feature/SXADemosite/Demo General/DemoHeader Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {85DC244D-BE3D-4609-BC6C-2B6084A47990}
+    {A7EA244D-BED0-4B70-B8C2-9E6F77E99B9F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "de28de79-ed9d-43c1-b364-d5de0f0a308e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "186138c2-b8e0-4d6c-a7c8-5e24d170aacd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250505T175312Z

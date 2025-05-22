@@ -1,0 +1,30 @@
+﻿---
+ID: "72f3173b-a8f5-40ec-b078-5720cf413d07"
+Parent: "49d5f052-118c-4115-bce9-503f67ecae34"
+Template: "fcdc1dfa-103d-4133-a88b-bf1abc7aee52"
+Path: /sitecore/content/sxademo/sxademosite/Data/DemoFooter/Job
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14549246-25cc-4923-807a-0c5724a5961a"
+      Hint: LinkText
+      Value: Job
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250506T180422Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d26cddc5-0cdf-49b5-9736-3f7fc40b746d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "bee3e40e-e34f-4fd9-bd6a-78197da0e587"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D839FD8-55B7-48F1-9C0D-7EFF9276A3FA}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250506T180438Z

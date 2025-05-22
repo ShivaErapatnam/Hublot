@@ -1,0 +1,75 @@
+﻿---
+ID: "d7c6034a-a12b-4e85-95a3-db39b1b5c4f9"
+Parent: "b107bc98-c4dc-4f04-b9ed-16c2b9c92a56"
+Template: "22ebb0f9-af9d-41f9-bad7-ced9c7749cfd"
+Path: /sitecore/content/sxademo/sxademosite/Home
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6B7E0C6B-4791-46B0-A122-8C8A513026E7}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a21a87a1-78f8-40ea-bc64-be5b244dfaec"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B16068E6-A137-4A73-8A6D-E039417437EB}"
+              p:before="*"
+              s:ds="{708A10AC-B810-4CB8-8ED4-510B47939590}"
+              s:id="{BCC1942A-A972-4A0F-B174-30E3E160E827}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B214B54BB-2741-4740-A73B-DC9BD81C9654%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{9591095C-8D62-43A5-BB7C-14F593D1C4DE}"
+              p:after="*[1=2]"
+              s:ds="{DFBBD777-B636-4F01-AC45-BC65FDB98F51}"
+              s:id="{82E7FDB9-9E1D-42A7-8DB0-6A9477EB3605}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BBD1EF90C-9F32-40CA-8717-AF89C1D9971D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240307T083603Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Home
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2839aca6-98a4-43ab-be51-23a6588641fd"
+    - ID: "9b7fc37e-64ce-4c46-b092-84fee23d2a27"
+      Hint: Title
+      Value: Home
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T181307Z

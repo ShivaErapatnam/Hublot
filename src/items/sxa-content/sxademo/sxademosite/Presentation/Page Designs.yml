@@ -1,0 +1,42 @@
+﻿---
+ID: "9fe1273f-8474-4f5c-a32d-0174d4271961"
+Parent: "1d7c03ff-9214-416b-aff3-bf7c33ae417a"
+Template: "b2948434-243c-4a13-b344-12e8347aa609"
+Path: /sitecore/content/sxademo/sxademosite/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b22EBB0F9-AF9D-41F9-BAD7-CED9C7749CFD%7d%3d%257BA4125403-43D5-4640-9CEF-65ECE85569B4%257D%26%7b12979967-1CA8-4891-97F4-1904BDB8FFDA%7d%3d%257BEBE56274-B04D-45AF-ADDB-C1195DF69047%257D"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2281b60f-3afb-4a39-a7c3-fe0a05f16674"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240307T083603Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfb6a1bc-4ef6-42b1-9b76-1b20a3f99bf5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T125351Z

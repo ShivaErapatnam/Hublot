@@ -1,0 +1,42 @@
+﻿---
+ID: "4c11a130-df2c-4495-a8e4-1cde0f8fcdb9"
+Parent: "115892ee-fe11-498f-8b07-3c82d97fe9d0"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/sxademo/sxademosite/Presentation/Headless Variants/DemoFooter
+BranchID: "464b9677-8c41-49ba-8543-d26eaba3adf3"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "267d0c56-67f5-4553-9813-1dac307f3c8f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7F3FDA48-7FC3-4160-80E1-E8870914E37C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250506T180038Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5451560f-ac5d-4f9f-b07a-faf72c12915b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250506T180038Z

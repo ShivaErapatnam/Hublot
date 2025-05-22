@@ -1,0 +1,42 @@
+﻿---
+ID: "708a10ac-b810-4cb8-8ed4-510b47939590"
+Parent: "038c65ea-c63b-483d-8c6e-119fa9be678b"
+Template: "24c7ba75-e50c-4e34-bf06-710cc1f938d7"
+Path: /sitecore/content/sxademo/sxademosite/Data/DemoHero/DemoHero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1694a539-a7ff-4ad2-8b09-c24dd3615f49"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{D58E485F-1D13-41B0-92CD-3CF66D73A974}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250505T113108Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ee9dc44-fc49-4343-b3f3-a31b660489c7"
+    - ID: "aa525835-26b4-4612-bc44-8ad8991b307a"
+      Hint: HeroText
+      Value: |
+        <h1> BIG BANG </h1>
+        <p> 2025 </p>
+        <p> Buy Now</p>
+        <span></span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250505T115824Z

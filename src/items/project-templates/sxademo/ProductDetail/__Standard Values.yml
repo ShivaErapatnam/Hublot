@@ -1,0 +1,59 @@
+﻿---
+ID: "21cf3684-bb88-479c-b425-7eb0e4c2c76e"
+Parent: "12979967-1ca8-4891-97f4-1904bdb8ffda"
+Template: "12979967-1ca8-4891-97f4-1904bdb8ffda"
+Path: /sitecore/templates/Project/sxademo/ProductDetail/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {22EBB0F9-AF9D-41F9-BAD7-CED9C7749CFD}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e405668c-a813-47c9-848d-95552428c556"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          id="{CE02BCA2-5023-42D3-98AE-8DE5EDC316A3}"
+          ph="headless-main"
+          uid="{8904A370-48BD-4654-8A25-7CBA929906DE}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d2f4569-49ef-497f-bddc-af2b0f43eff9"
+      Hint: Model
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240307T083534Z
+    - ID: "490acb88-6d22-4e2a-970f-0065c1f8a9cc"
+      Hint: Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df9ea8da-f002-4a7a-addc-6c7303d7b905"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T133123Z

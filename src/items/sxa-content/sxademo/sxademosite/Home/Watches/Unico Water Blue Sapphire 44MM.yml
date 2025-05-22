@@ -1,0 +1,47 @@
+﻿---
+ID: "dfe370f6-1df3-4e08-8c9e-0efaa83f1273"
+Parent: "739d02a0-25a6-4cb4-8b0a-8ea4bd078da1"
+Template: "12979967-1ca8-4891-97f4-1904bdb8ffda"
+Path: /sitecore/content/sxademo/sxademosite/Home/Watches/Unico Water Blue Sapphire 44MM
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{1ACC8B5C-F22C-4089-9847-D25ED0FAF69D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "73fdf69c-ddf1-474b-acc3-b45c6b90ff51"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c704e8f-f382-4d2d-b8b9-f031a311668a"
+      Hint: Price
+      Value: USD 20,80
+    - ID: "1d2f4569-49ef-497f-bddc-af2b0f43eff9"
+      Hint: Model
+      Value: Big Bang
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250507T072231Z
+    - ID: "490acb88-6d22-4e2a-970f-0065c1f8a9cc"
+      Hint: Title
+      Value: Unico Water Blue Sapphire 44MM
+    - ID: "4d37c281-a240-44bc-af69-c9faf52e1e30"
+      Hint: Image
+      Value: |
+        <image mediaid="{7BB24181-A82E-4705-9A08-EF04002EC679}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Unico Water Blue Sapphire 44MM
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d05f6cca-24ec-4a30-b10b-aade72ac181a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T133136Z

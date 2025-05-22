@@ -1,0 +1,43 @@
+﻿---
+ID: "739d02a0-25a6-4cb4-8b0a-8ea4bd078da1"
+Parent: "d7c6034a-a12b-4e85-95a3-db39b1b5c4f9"
+Template: "22ebb0f9-af9d-41f9-bad7-ced9c7749cfd"
+Path: /sitecore/content/sxademo/sxademosite/Home/Watches
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {22EBB0F9-AF9D-41F9-BAD7-CED9C7749CFD}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {12979967-1CA8-4891-97F4-1904BDB8FFDA}
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{48EA31FC-9E09-4F0B-8536-E8F15CB949BB}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3698b121-07af-4516-aa02-cf12b98d1b41"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250505T180129Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Watches
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a990fa0c-a6c9-4826-bbfa-83fdd0a0d690"
+    - ID: "9b7fc37e-64ce-4c46-b092-84fee23d2a27"
+      Hint: Title
+      Value: Watches
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T072158Z

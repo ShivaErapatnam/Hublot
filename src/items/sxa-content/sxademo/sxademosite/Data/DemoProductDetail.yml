@@ -1,0 +1,31 @@
+﻿---
+ID: "227332e6-970a-4ebe-aaa5-132b73f9db2f"
+Parent: "8ee31b81-89fe-4cd2-a915-d0e286798803"
+Template: "e7d6e9c8-5a8a-4c21-886e-2d4f9507db8b"
+Path: /sitecore/content/sxademo/sxademosite/Data/DemoProductDetail
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250507T100359Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0896fc1a-dc1c-4344-a4e7-372c8b88758e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shivae@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250507T100359Z
